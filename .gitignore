@@ -1,0 +1,5 @@
+# IGNORING
+ROE_BOT/
+__pycache__/
+assets/
+*.py
